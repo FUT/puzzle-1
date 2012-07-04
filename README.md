@@ -1,4 +1,4 @@
-[#1] International trade (http://puzzlenode.com/puzzles/1-international-trade)
+[#1] International trade 
 
 Problem
 
@@ -14,3 +14,5 @@ Notes
     <li>Some conversion rates are missing; you will need to derive them using the information provided.</li>
     <li>Since we are working with financial transactions, we need to avoid floating point arithmetic errors.</li>
 </ul>
+
+Full problem description might be found here: http://puzzlenode.com/puzzles/1-international-trade
